@@ -1,6 +1,6 @@
 import './App.css';
-import CutomerFrom from './components/CustomerFrom';
-import CutomerList from './components/CustomerList';
+import CutomerFrom from './components/customerForm/CustomerFrom';
+import CutomerList from './components/customerList/CustomerList';
 
 function App() {
   return <div className='App'>
